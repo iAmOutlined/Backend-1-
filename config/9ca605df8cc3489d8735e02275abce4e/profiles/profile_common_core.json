@@ -1,0 +1,26 @@
+{
+  "_id": "9ca605df8cc3489d8735e02275abce4e",
+  "created": "2022-11-04T17:03:52.013Z",
+  "updated": "2022-11-04T17:03:52.013Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "9ca605df8cc3489d8735e02275abce4e",
+  "profileId": "common_core",
+  "version": "ONIZUKΛ",
+  "items": {
+    "Currency_MtxPurchased": {
+      "attributes": {
+        "platform": "EpicPC"
+      },
+      "quantity": 69420,
+      "templateId": "Currency:MtxPurchased"
+    }
+  },
+  "stats": {
+    "attributes": {
+      "mtx_affiliate": "ONIZUKΛFN",
+      "current_mtx_platform": "EpicPC",
+      "mtx_purchase_history": {}
+    }
+  }
+}

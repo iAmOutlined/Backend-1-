@@ -1,0 +1,24 @@
+{
+  "created": "2022-11-05T00:59:53.250Z",
+  "updated": "2022-11-05T00:59:53.250Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "0a39d3d410054e478a1ada17a377b5a5",
+  "profileId": "creative",
+  "version": "fix_empty_users_again_july_2019",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "last_used_battlelab_file": "",
+      "max_island_plots": 1000,
+      "publish_allowed": true,
+      "support_code": "true",
+      "last_used_plot": "",
+      "permissions": [],
+      "creator_name": "Foco",
+      "publish_banned": false,
+      "inventory_limit_bonus": 1
+    }
+  },
+  "_id": "0a39d3d410054e478a1ada17a377b5a5"
+}
